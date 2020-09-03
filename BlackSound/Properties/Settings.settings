@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BlackSound.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FileUsers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">../../Data/users.csv</Value>
+    </Setting>
+    <Setting Name="FileSongs" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">../../Data/songs.csv</Value>
+    </Setting>
+    <Setting Name="FilePlaylists" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">../../Data/playlists.csv</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
